@@ -1,6 +1,7 @@
 # 🏆 Arm Wrestling Supermatch Simulator
 
-A simple, text-based game that brings the intensity of arm wrestling to life! Pick your wrestler, press a button, and watch legendary matches unfold through dynamic commentary.
+A simple, text-based game that brings the intensity of arm wrestling to life! 
+Pick your wrestler, press a button, and watch legendary matches unfold through dynamic commentary.
 
 ---
 
@@ -10,6 +11,7 @@ A simple, text-based game that brings the intensity of arm wrestling to life! Pi
 - **Select a wrestler** from a roster of legends.
 - **Choose a match format** (Best of 3, 5, or 7 rounds).
 - **Start the match** and enjoy detailed, play-by-play text commentary.
+  **Thats it!
 
 The game simulates matches using a strategic engine that factors in:
 - **Wrestler stats** (strength, endurance, wrist control, technique).
@@ -17,7 +19,7 @@ The game simulates matches using a strategic engine that factors in:
 
 Currently in its **early stages**, the game offers a fun and engaging experience with a solid foundation. Future updates will bring animations, enhanced mechanics, and deeper gameplay.
 
-> **Built with AI Assistance**: AI tools helped optimize the game logic, improve efficiency, and refine commentary as I am not the most experience programmer to begin with. However, all wrestler data, creative decisions, and core mechanics concepts were hand-crafted by myself.
+> **Built with AI Assistance**: Being absolutely transparent, the coding for this game was done with the help of AI as I am not the most experienced programmer in the world when it comes to dealing with HTML, CSS and JavaScript. However, all wrestler data, creative decisions, ideas, and core mechanics concepts were carefully thought by myself with lots of trial and error.
 
 ---
 
