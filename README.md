@@ -71,5 +71,8 @@ This project is licensed under the **[MIT License](LICENSE)** – feel free to u
 ## 🚀 Try It Out!
 Play live on **[GitHub Pages](https://joemcf09.github.io/ArmWrestlingMatchSimulator/)** and feel the arm wrestling thrill!
 
+![Screenshot 2025-03-11 115136](https://github.com/user-attachments/assets/c12c3436-cb95-4977-aca4-a47e417f0f30)
+![Screenshot 2025-03-11 115224](https://github.com/user-attachments/assets/fee7b295-fa90-4677-8ce6-56b7123b2b10)
+
 ---
 Built with ❤️ by Joemcf09, 2025 – for arm wrestling fans everywhere!
