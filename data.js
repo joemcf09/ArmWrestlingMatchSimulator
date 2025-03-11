@@ -5,7 +5,7 @@ const wrestlers = [
         weightClass: ["Super Heavyweight"],
         styles: { hook: 0.5, toproll: 0.45, press: 0.05 },
         attributes: {
-            right: { strength: 100, hand: 100, wrist: 99, arm: 100, endurance: 95 },
+            right: { strength: 100, hand: 100, wrist: 99, arm: 100, endurance: 97 },
             left: { strength: 97, hand: 97, wrist: 96, arm: 97, endurance: 90 }
         },
         fatigue: 100,
@@ -53,7 +53,7 @@ const wrestlers = [
         weightClass: ["Heavyweight", "Super Heavyweight"],
         styles: { kings: 0.9, press: 0.06, hook: 0.04 },
         attributes: {
-            right: { strength: 94, hand: 92, wrist: 90, arm: 95, endurance: 96 },
+            right: { strength: 92, hand: 92, wrist: 90, arm: 95, endurance: 94 },
             left: { strength: 87, hand: 85, wrist: 83, arm: 88, endurance: 90 }
         },
         fatigue: 100,
@@ -65,7 +65,7 @@ const wrestlers = [
         weightClass: ["Heavyweight", "Super Heavyweight"],
         styles: { press: 0.9, hook: 0.1 },
         attributes: {
-            right: { strength: 93, hand: 90, wrist: 88, arm: 96, endurance: 94 },
+            right: { strength: 92, hand: 90, wrist: 88, arm: 96, endurance: 94 },
             left: { strength: 85, hand: 82, wrist: 80, arm: 88, endurance: 87 }
         },
         fatigue: 100,
