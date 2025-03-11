@@ -56,6 +56,7 @@ Currently in its **early stages**, it’s a fun foundation with big plans ahead�
 
 ## 📝 Contributing
 This is in **beta**—help me make it better!  
+I invite and strongly ENCOURAGE programmers/armwrestlers to contribute to make this game the best game possible for arm wrestling!
 - **Report Bugs**: [Issues page](https://github.com/joemcf09/ArmWrestlingMatchSimulator/issues).  
 - **Suggest Features**: Same spot!  
 - **Contribute Code**: Fork and send a [Pull Request](https://github.com/joemcf09/ArmWrestlingMatchSimulator/pulls).
