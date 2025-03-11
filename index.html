@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arm Wrestling Supermatch Simulator</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>Arm Wrestling Supermatch Simulator</h1>
+
+    <!-- Weight Class Filter -->
+    <div>
+        <label for="weightClassFilter">Filter by Weight Class:</label>
+        <select id="weightClassFilter">
+            <option value="">All</option>
+            <option value="Lightweight">Lightweight</option>
+            <option value="Middleweight">Middleweight</option>
+            <option value="Heavyweight">Heavyweight</option>
+            <option value="Super Heavyweight">Super Heavyweight</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="playerSelect">Choose your arm wrestler:</label>
+        <select id="playerSelect">
+            <!-- Options will be dynamically populated -->
+        </select>
+    </div>
+
+    <!-- Toggle Switch -->
+    <div class="toggle-container">
+        <label for="aiPicksOpponent">AI Picks Opponent:</label>
+        <label class="toggle-switch">
+            <input type="checkbox" id="aiPicksOpponent" checked>
+            <span class="slider"></span>
+        </label>
+    </div>
+
+    <!-- Opponent Dropdown (Hidden by Default) -->
+    <div id="opponentSelectContainer">
+        <label for="opponentSelect">Choose your opponent:</label>
+        <select id="opponentSelect">
+            <!-- Options will be dynamically populated -->
+        </select>
+    </div>
+
+    <div>
+        <label for="handSelect">Select hand:</label>
+        <select id="handSelect">
+            <option value="right">Right Hand</option>
+            <option value="left">Left Hand</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="matchFormat">Select match format:</label>
+        <select id="matchFormat">
+            <option value="3">Best of 3</option>
+            <option value="5">Best of 5</option>
+            <option value="7">Best of 7</option>
+        </select>
+    </div>
+
+    <button id="startMatchButton">Start Match</button>
+
+    <div class="player-images">
+        <img id="player1Img" src="img/armflex.jpg" alt="Player 1">
+        <img id="player2Img" src="img/armflex reverse.JPG" alt="Player 2">
+    </div>
+
+    <div id="matchTable"></div>
+
+    <div id="matchCommentary"></div>
+</div>
+
+<audio id="crowdCheer" src="CrowdCheering.mp3"></audio>
+<audio id="tableCreak" src="https://www.soundjay.com/wood/wood-creak-1.mp3"></audio>
+<audio id="refereeStart" src="https://www.soundjay.com/voice/referee-start.mp3"></audio>
+
+<!-- Load External JavaScript Files -->
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
