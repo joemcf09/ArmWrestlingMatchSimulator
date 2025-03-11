@@ -15,7 +15,7 @@ The game simulates matches using a strategic engine that factors in:
 
 Currently in its **early stages**, it’s a fun foundation with big plans ahead—like animations and deeper mechanics.
 
-> **Built with AI Assistance**: Full transparency—I leaned on AI for alot of the HTML, CSS, and JS help since I’m still learning, I do fully understand that using AI for my full coding needs is a bad habit and bad practice, I am still learning. But the wrestler data, ideas, and mechanics? All me, with plenty of trial and error!
+> **Built with AI Assistance**: Full transparency—I leaned on AI for alot of the HTML, CSS, and JS help since I’m still learning, I do fully understand that using AI for my full coding needs is a bad habit and bad practice. But the wrestler data, ideas, and mechanics? All me, with plenty of trial and error!
 
 ---
 
